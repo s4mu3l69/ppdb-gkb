@@ -3,10 +3,10 @@
         <div class="row g-5 ">
             <div class="col-lg-6 wow fadeIn" data-wow-delay="0.3s">
                 <h1 class="display-6 text-black mb-5">
-                    Segera daftarkan diri Anda di SMK PGRI Telagasari!
+                    Segera daftarkan diri Anda di SMK Gema Karya Bahana!
                 </h1>
                 <p class="text-black mb-5">
-                    Pendaftaran PPDB SMK PGRI Telagasari dibuka mulai tanggal 1 Januari 2024 hingga 31 Juli 2024.
+                    Pendaftaran PPDB SMK Gema Karya Bahana  dibuka mulai tanggal, Bulan, Tahun.
                     Informasi lebih lanjut dapat dilihat di website sekolah atau menghubungi nomor telepon dibawah.
                 </p>
                 <div class="d-flex align-items-center mb-3">
@@ -16,7 +16,7 @@
                     </div>
                     <div class="ms-3">
                         <h5>Alamat</h5>
-                        <p class="mb-0">Jl. Raya Syeh Quro, Talagasari, Kabupaten Karawang, Jawa Barat 41381, Indonesia
+                        <p class="mb-0">PXQP+6RV, RT.004/RW.001, Pekayon Jaya, Kec. Bekasi Sel. Kota Bks, Jawa Barat 17148, Indonesia , Indonesia
                         </p>
                     </div>
                 </div>
@@ -37,7 +37,7 @@
                     </div>
                     <div class="ms-3">
                         <h5>Email</h5>
-                        <p class="mb-0">info@smkpgritelagasari1.sch.id</p>
+                        <p class="mb-0">dummy@gmail.com</p>
                     </div>
                 </div>
             </div>

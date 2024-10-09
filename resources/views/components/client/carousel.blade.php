@@ -31,17 +31,17 @@
             </div>
             @empty
             <div class="carousel-item active">
-                <img class="w-100" src="{{asset('img/sekolah.webp')}}" width="1378px" height="768px" alt=""
+                <img class="w-100" src="{{asset('img/sekolah.jpg')}}" width="1378px" height="768px" alt=""
                     style="filter: blur(4px);" />
                 <div class="carousel-caption position-absolute top-0 start-0 w-100 h-100 d-flex align-items-center">
                     <div class="container">
                         <div class="row justify-content-start">
                             <div class="col-12 col-lg-6">
-                                <h5 class=" text-uppercase mb-3 animated slideInDown" style="color: #fb873f;">
-                                    MULAI DARI HARI INI!</h5>
-                                <h1 class="display-3 text-white animated slideInDown">SMK PGRI Telagasari</h1>
+                                <h5 class="text-uppercase mb-3 animated slideInDown h5" style="color: #fb873f;">
+                                    PPDB</h5>
+                                <h1 class="display-3 text-white animated slideInDown">SMK Gema Karya Bahana</h1>
                                 <p class="fs-5 text-white mb-5">
-                                    {{"sekolah kejuruan yang berlokasi di Kabupaten Karawang, Jawa Barat, kini menerima peserta didik baru untuk tahun ajaran 2024/2025.!"}}
+                                    {{"Sekolah Kejuruan Yang Berlokasi Di Kabupaten Bekasi, Jawa Barat, Kini Menerima Peserta Didik Baru Untuk Tahun Ajaran 2024/2025"}}
                                 </p>
                                 <a href="{{route('daftar')}}" target="_blank"
                                     class="btn btn-primary py-md-3 px-md-5 me-3 animated slideInLeft">Daftar

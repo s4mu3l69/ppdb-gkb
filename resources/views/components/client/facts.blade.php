@@ -4,7 +4,7 @@
             <div class="row g-2 text-center">
                 <div class="col-12 wow fadeInUp" data-wow-delay="0.3s">
                     <h1 style="color: #000000;">Fasilitas dan keunggulan sekolah.</h1>
-                    <p class="mb-5">SMK PGRI Telagasari memiliki fasilitas dan keunggulan yang lengkap untuk mendukung
+                    <p class="mb-5">SMK Gema Karya Bahana memiliki fasilitas dan keunggulan yang lengkap untuk mendukung
                         proses pembelajaran dan pengembangan diri siswa, antara lain:
                         .</p>
                 </div>

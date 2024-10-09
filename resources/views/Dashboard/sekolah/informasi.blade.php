@@ -24,7 +24,7 @@
                                                         Informasi<sup class="text-danger">*</sup></label>
                                                     <input type="text" name="judul"
                                                         class="form-control {{ $errors->get('judul') ? 'is-invalid' : '' }}"
-                                                        placeholder="SMK PGRI BISA!">
+                                                        placeholder="SMK Gema Karya Bahana">
                                                     @if ($errors->get('judul'))
                                                         <div class="invalid-feedback text-danger">
                                                             @foreach ($errors->get('judul') as $message)

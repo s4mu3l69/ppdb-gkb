@@ -10,7 +10,7 @@
                 </div>
                 <div class="blog-content">
                     <div class="blog-title">{{$infor->judul}}</div>
-                    <div class="blog-subtitle">SMK PGRI Telagasari</div>
+                    <div class="blog-subtitle">SMK Gema Karya Bahana</div>
                     <p class="blog-desc">{{Str::limit($infor->deskripsi_informasi, 100, '.....')}} <a
                             href="{{route('baca', $infor->id)}}">Read
                             More</a></p>

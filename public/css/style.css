@@ -32,7 +32,10 @@
 .btn {
     transition: 0.5s;
 }
-
+    .h5{
+    font-size: 30px;  /* Mengatur ukuran teks */
+    font-weight: bold; /* Mengatur teks menjadi tebal */
+    }
 .btn.btn-primary,
 .btn.btn-outline-primary:hover,
 .btn.btn-secondary,
@@ -111,7 +114,10 @@
     .navbar .navbar-brand img {
         max-height: 45px;
     }
-
+    .logo-img{ 
+            height: 600px; /* tinggi gambar */
+            width: 150px;       /* Lebar otomatis untuk menjaga rasio aspek */
+    }
     .navbar .navbar-nav {
         margin-top: 20px;
         margin-bottom: 15px;

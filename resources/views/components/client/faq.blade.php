@@ -63,12 +63,12 @@
                            <h2 class="accordion-header">
                                <button class="accordion-button collapsed wow fadeInUp" data-wow-delay="0.3s"
                                    type="button" data-bs-toggle="collapse" data-bs-target="#faq2-content-1">
-                                   dimana lokasi SMK PGRI Telagasari?
+                                   dimana lokasi SMK Gema Karya Bahana?
                                </button>
                            </h2>
                            <div id="faq2-content-1" class="accordion-collapse collapse" data-bs-parent="#faqlist2">
                                <div class="accordion-body">
-                                   Jl. Raya Syeh Quro, Talagasari, Kabupaten Karawang, Jawa Barat 41381, Indonesia
+                               RT.004/RW.001, Pekayon Jaya, Kec. Bekasi Sel. Kota Bks, Jawa Barat 17148, Indonesia
                                </div>
                            </div>
                        </div>
@@ -100,10 +100,9 @@
                                <div class="accordion-body">
                                    <p></p>
                                    <ul>
-                                       <li>Rekayasa Perangkat Lunak</li>
-                                       <li>Teknik Mesin Industri</li>
-                                       <li>Teknik Kendaraan Ringan</li>
-                                       <li>Teknik Pengelasan</li>
+                                       <li>Teknik Sepeda Motor</li>
+                                       <li>Teknik Kabel Dan Jaringan</li>
+                                       <li>Akutansi Dan Keuangan Lembaga</li>
                                    </ul>
                                </div>
                            </div>

@@ -10,11 +10,10 @@
              <div class="card-body">
              <a
                     href="./index.html"
-                    class="text-nowrap logo-img text-center d-block py-5 w-100"
-                  >
+                    class="text-nowrap logo-img text-center d-block py-5 w-100">
                     <img
                       src="{{ asset('img/logo.png') }}"
-                      width="180"
+                      
                       alt=""
                     />
                   </a>

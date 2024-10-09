@@ -11,7 +11,7 @@
                         <div class="card mb-0 mx-auto rounded-lg shadow">
                             <div class="card-body">
                                 <a href="#" class="text-nowrap logo-img text-center d-block py-4 w-100">
-                                    <img src="{{ asset('img/logo.png') }}" width="180" alt="" />
+                                    <img src="{{ asset('img/logo.png') }}"  alt="" />
                                 </a>
 
                                 <form method="POST" action="{{ route('login') }}">

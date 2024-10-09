@@ -36,7 +36,7 @@
         <tr>
             <td><b>Status Di Terima</b></td>
             <td>:</td>
-            <td>@if($data->acc == '1' && $data->daful == '1' ) Selamat Untuk Ananda {{$data->nama_siswa}} Telah Di Terima Di SMK PGRI TELAGASARI.@endif</td>
+            <td>@if($data->acc == '1' && $data->daful == '1' ) Selamat Untuk Ananda {{$data->nama_siswa}} Telah Di Terima Di SMK Gema Karya Bahana.@endif</td>
         </tr>
         
 </table>

@@ -2,7 +2,7 @@
     <div class="container">
         <div class="text-center mx-auto" style="max-width: 500px">
             <h1 class="display-6 mb-5">
-                Formulir Pendaftaran Online SMK PGRI Telagasari
+                Formulir Pendaftaran Online SMK Gema Karya Bahana
             </h1>
         </div>
         <div class="row g-4 justify-content-center">
@@ -255,7 +255,7 @@
                     </div>
                     <div class="col-md-6 mt-3">
                         <label>Rekomendasi Masuk</label>
-                        <input type="text" class="form-control" placeholder="Rekomendasi Masuk SMK PGRI TELAGASARI" {{$form}}
+                        <input type="text" class="form-control" placeholder="Rekomendasi Masuk SMK Gema Karya Bahana" {{$form}}
                             @if($gelombang==null) @elseif($gelombang->status_gelombang == 'Buka') name="rekomendasi"
                         @endif value="{{old('rekomendasi')}}">
                     </div>
@@ -290,7 +290,7 @@
             </div>
             <div class="modal-body">
                 <p>
-                    Selamat Datang Di Web PPDB SMK PGRI Telagasari 2024 / 2025, ada beberapa aturan sebelum mengisi
+                    Selamat Datang Di Web PPDB SMK Gema Karya Bahana 2024 / 2025, ada beberapa aturan sebelum mengisi
                     form pengisian di bawah ini, seperti
                 </p>
                 <ul>
@@ -306,7 +306,7 @@
 
                 </ul>
                 <p>
-                    Terima kasih telah mendaftar di sekolah kami SMK PGRI Telagasari, jadi bagian PGRI adalah
+                    Terima kasih telah mendaftar di sekolah kami SMK Gema Karya Bahana, jadi bagian PGRI adalah
                     suatu langkah awal yang baik, Terima kasih.
                 </p>
                 <p>
